@@ -1,0 +1,14 @@
+﻿Item,Worksheet,Location
+Tables 3 & 4,Data,A8772 to H8795; The uncertainty calculations for the COPs are just to the right in cells K8772 to R8790.
+Figure 3,BinResultsMonth1Y,K38
+Figure 4,BinResultsODA1Y,BC11
+Figure 5,Duration Curve,H35
+Figure 7,Figure 7,H18
+Figure 8,BinResultsMonth1Y,E89
+Figure 9,BinResultsHPEFT1Y,Q44
+Figure 10,BinResultsHPEFT1Y,AZ20
+Figure 11,Color-code overall COP,H26
+,,
+,,
+Notes,,
+①,"Before cooling power meter was installed on 4 April 2016, a a cooling energy meter, which  output in pulses, was used.  At times, hours go by without a pulse, so the hourly rate in this column is calculated based on the time between pulses.  It is only used for the first 4 days on the analysis period.",
